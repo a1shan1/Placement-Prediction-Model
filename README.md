@@ -1,8 +1,6 @@
 # Placement-Prediction-Web-App
 
 
-# PLACEMENT-PREDICTION-MODEL
-
 Welcome to the repository for our minor project on the Placement Prediction Model!
 This repository contains all the necessary resources, including data, notebooks, and documentation, for our project.
 
