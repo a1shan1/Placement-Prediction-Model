@@ -112,3 +112,6 @@ List of team members include:
 4. ARCHI
 5. NITYA
 
+## Contact
+
+If you have any questions or suggestions regarding this repository, please feel free to reach out to me at mohapatraaishani20@gmail.com.
