@@ -85,8 +85,8 @@ The project notebooks in the notebooks directory provide step-by-step guidance o
 2. Sk-learn
 3. Pandas
 4. Numpy
-5. Streamlit
-6. Matplotlib
+5. Matplotlib
+6. Streamlit
 
 
 ## FUTURE ENHANCEMENTS
