@@ -87,6 +87,7 @@ The project notebooks in the notebooks directory provide step-by-step guidance o
 4. Numpy
 5. Matplotlib
 6. Streamlit
+7. Anaconda
 
 
 ## FUTURE ENHANCEMENTS
