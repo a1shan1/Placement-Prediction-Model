@@ -7,7 +7,7 @@ This repository contains all the necessary resources, including data, notebooks,
 
 ## INTRODUCTION
 
-In today's competitive world, every student aims to secure a placement in a reputed organization to begin their career.One of the major challenges that educational institutes face today is to improve their placement performance and ensure that their students are successful in securing job placements.
+In today's competitive world, every student aims to secure a placement in a reputed organization to begin their career. One of the major challenges that educational institutes face today is to improve their placement performance and ensure that their students are successful in securing job placements.
 However, predicting whether a student will be placed or not is a challenging task for educational institutions.
 
 To address this issue, the Placement Prediction Model is developed using Machine Learning techniques.
