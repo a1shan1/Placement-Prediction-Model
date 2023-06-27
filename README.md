@@ -7,7 +7,7 @@ This repository contains all the necessary resources, including data, notebooks,
 
 ## INTRODUCTION
 
-In today's competitive world, every student aims to secure a placement in a reputed organization to begin their career.One of the major challenges that educational institutes face today is to improve their placement performance and ensure that their students are successful in securing job placements.
+In today's competitive world, every student aims to secure a placement in a reputed organization to begin their career. One of the major challenges that educational institutes face today is to improve their placement performance and ensure that their students are successful in securing job placements.
 However, predicting whether a student will be placed or not is a challenging task for educational institutions.
 
 To address this issue, the Placement Prediction Model is developed using Machine Learning techniques.
@@ -78,6 +78,18 @@ The project notebooks in the notebooks directory provide step-by-step guidance o
 5. Predict placements: Apply the trained model on new student data to predict the probability of placement for the current year. Follow the prediction notebook for guidance on making accurate predictions.
 
 
+
+## TECHNOLOGIES
+
+1. Python
+2. Sk-learn
+3. Pandas
+4. Numpy
+5. Matplotlib
+6. Streamlit
+7. Anaconda
+
+
 ## FUTURE ENHANCEMENTS
 
 We have identified several potential areas for future enhancements of the Placement Prediction Model:
@@ -112,3 +124,6 @@ List of team members include:
 4. ARCHI
 5. NITYA
 
+## Contact
+
+If you have any questions or suggestions regarding this repository, please feel free to reach out to me at mohapatraaishani20@gmail.com.
