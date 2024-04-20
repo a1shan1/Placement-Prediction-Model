@@ -120,9 +120,6 @@ List of team members include:
 
 1. AISHANI
 2. ABHISHEK
-3. KAREEN
-4. ARCHI
-5. NITYA
 
 ## Contact
 
